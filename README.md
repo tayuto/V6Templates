@@ -6,5 +6,8 @@ Select all the window items which have "Kid Screen" from the quote (based on the
 - Dependecies: Alspec Screen Report
 - Label Size: 9R x 4C on A4
 - Preview:
-- Donload:
+<p>
+<img src="./01001KidScreenLabelSample.png">
+</p>
+- Download:
 - Issues: See "Issues" Tab
