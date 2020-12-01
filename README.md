@@ -13,3 +13,8 @@ Select all the window items which have "Kid Screen" from the quote (based on the
   <li>Download: <a href="/AiQScreenLabels1.QR"> Here</a></li>
   <li>Issues: See <a href="/issues">"Issues"</a> Tab</li>
 </ul>
+## How to use the templates?
+<ol>
+  <li>Upload the template file into the V6 Documents</li>
+  <li>Click the Report Icon --> User defined Report --> Open --> Run</li>
+ </ol>
