@@ -10,6 +10,6 @@ Select all the window items which have "Kid Screen" from the quote (based on the
   <p>
     <img src="/samples/LAB001KidScreenLabelSample.PNG">
   </p></li>
-  <li>Download:</li>
-  <li>Issues: See "Issues" Tab</li>
+  <li>Download: <a href="/AiQScreenLabels1.QR"> Here</a></li>
+  <li>Issues: See <a href="/issues">"Issues"</a> Tab</li>
 </ul>
