@@ -1,5 +1,5 @@
 # V6Templates
-Soft Tech V6 Report and Label Templates
+Soft Tech V6 Report and Label Templates, created by Yingpeng during spare time, free for personal use.
 ## Kidscreen Labels
 Select all the window items which have "Kid Screen" from the quote (based on the screen report), print the item name, item quantities, kid screen frame size on each label. 
 <ul>
